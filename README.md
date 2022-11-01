@@ -17,7 +17,7 @@ Tasks: image classification, the classification branch of object detection, ...
 ### 2️⃣ Value Regression
 Tasks: image regression, the localization branch of object detection, object localization, ...
 #### Correctness
-- [xxx](xxx)
+A Comparative Analysis of Object Detection Metrics with a Companion Open-Source Toolkit [[Paper](https://www.mdpi.com/2079-9292/10/3/279)]
 #### Robustness
 #### Reliability
 #### Stability
